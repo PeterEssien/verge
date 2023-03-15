@@ -1,0 +1,167 @@
+{
+  "executive": {
+    "title": "Executive Team",
+    "members": [
+      {
+        "img": "../static/img/team/sunerok.jpg",
+        "name": "Justin Valo - Sunerok",
+        "role": "Founder/CEO",
+        "occupation": "Network Security & Blockchain Expert",
+        "github": "https://github.com/justinvforvendetta",
+        "twitter": "https://twitter.com/justinvendetta",
+        "location": "Florida, USA"
+      },
+      {
+        "img": "../static/img/team/mihael.jpg",
+        "name": "Mihael Radoslovic",
+        "role": "Chief Operating Officer",
+        "occupation": "Director of Operations",
+        "twitter": "https://twitter.com/itsmihael",
+        "location": "Rijeka, Croatia"
+      },
+      {
+        "img": "../static/img/team/mark.jpg",
+        "name": "Mark Wittenberg",
+        "role": "Chief Marketing Officer",
+        "occupation": "Finance / Credit Specialist",
+        "twitter": "https://twitter.com/vergecanada",
+        "twitter_alt": "https://twitter.com/itsmwittenberg",
+        "location": "Alberta, Canada"
+      },
+      {
+        "img": "../static/img/team/xvgninja.jpg",
+        "name": "Alexandre Ederer - XVG Ninja",
+        "role": "Chief Content Officer",
+        "occupation": "Corporate English Teacher / Editor",
+        "twitter": "https://twitter.com/Ederer_digital",
+        "location": "Germany"
+      }
+    ]
+  },
+  "developer": {
+    "title": "Development Team",
+    "members": [
+      {
+        "img": "../static/img/team/maxius.jpg",
+        "name": "Damien - Maxius",
+        "role": "Software Engineer",
+        "occupation": "Full Stack Web Developer",
+        "github": "https://github.com/Max1us",
+        "twitter": "https://twitter.com/_maxius_",
+        "location": "Melbourne, Australia"
+      }
+    ]
+  },
+  "businessdevelopment": {
+    "title": "Business Development",
+    "members": [
+      {
+        "img": "../static/img/team/cc66.jpg",
+        "name": "Jason - CC66",
+        "role": "Senior Community Manager",
+        "occupation": "Social Engineering Specialist",
+        "twitter": "https://twitter.com/CoinCrazy66",
+        "location": "Tennessee, USA"
+      },
+      {
+        "img": "../static/img/team/hoffma.jpg",
+        "name": "Nick",
+        "role": "Business Development",
+        "location": "Passau, Germany"
+      }
+    ]
+  },
+  "marketing": {
+    "title": "Marketing Team",
+    "members": [
+      {
+        "img": "../static/img/team/nichola.jpg",
+        "name": "Nikki",
+        "role": "Outreach",
+        "occupation": "Life skills teacher",
+        "twitter": "https://twitter.com/knicky74",
+        "location": "UK"
+      },
+      {
+        "img": "../static/img/team/derek.jpg",
+        "name": "Derek",
+        "role": "Fueled By Verge - Outreach",
+        "occupation": "Entrepreneur",
+        "twitter": "https://twitter.com/141mx",
+        "location": "Canada"
+      },
+      {
+        "img": "../static/img/team/maria.jpg",
+        "name": "Maria Dias",
+        "role": "Social Media / Marketing",
+        "twitter": "https://twitter.com/maria___dias",
+        "location": "Portugal"
+      },
+      {
+        "img": "../static/img/team/grandpriest.jpg",
+        "name": "Vivek - Grandpriest",
+        "role": "Advisor & Marketing",
+        "twitter": "https://twitter.com/cryptooza",
+        "location": "India"
+      }
+    ]
+  },
+  "advisor": {
+    "title": "Advisors",
+    "members": [
+      {
+        "img": "../static/img/team/swizzlesticks.jpg",
+        "name": "Lloyd - Swizzlesticks",
+        "role": "Senior Content Manager",
+        "occupation": "Owner/CEO - Managed Services Provider",
+        "twitter": "https://twitter.com/3wizzlesticks",
+        "location": "Kentucky, USA"
+      },
+      {
+        "img": "../static/img/team/birb.jpg",
+        "name": "Dan - wit_sec_birb",
+        "role": "Advisor & Marketing",
+        "occupation": "Procurement",
+        "twitter": "https://twitter.com/wit_sec_birb",
+        "location": "Melbourne, Australia"
+      },
+      {
+        "img": "../static/img/team/harry.jpg",
+        "name": "Harry",
+        "role": "General Advisor",
+        "occupation": "Venture Advisor",
+        "twitter": "https://twitter.com/XVGHS",
+        "location": "British Columbia, Canada"
+      }
+    ]
+  },
+  "media": {
+    "title": "Multimedia",
+    "members": [
+      {
+        "img": "../static/img/team/thecryptocamel.jpg",
+        "name": "TheCryptoCamel",
+        "role": "Video Production",
+        "occupation": "Master Distiller",
+        "twitter": "https://twitter.com/TheCryptoCamel",
+        "location": "Washington, USA"
+      },
+      {
+        "img": "../static/img/team/pedro.jpg",
+        "name": "Pedro",
+        "role": "3D Graphics & Animation",
+        "occupation": "Mechanical Engineer",
+        "twitter": "https://twitter.com/xvgpedro",
+        "location": "Porto, Portugal"
+      },
+      {
+        "img": "../static/img/team/cityboi.jpg",
+        "name": "Cityboi",
+        "role": "Graphics Designer",
+        "occupation": "Graphics Designer",
+        "twitter": "https://twitter.com/CBoisss",
+        "location": "The Netherlands"
+      }
+    ]
+  }
+}
